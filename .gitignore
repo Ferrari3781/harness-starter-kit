@@ -5,3 +5,4 @@ build/
 .venv/
 *.log
 __pycache__/
+coverage/
